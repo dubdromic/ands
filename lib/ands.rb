@@ -1,5 +1,5 @@
-require "ands/version"
+require 'ands/version'
 
 module Ands
-  # Your code goes here...
+  require 'ands/in_place_quicksort'
 end
