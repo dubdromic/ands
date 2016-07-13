@@ -5,4 +5,5 @@ module Ands
   require 'ands/quicksort'
   require 'ands/bubblesort'
   require 'ands/mergesort'
+  require 'ands/linear_search'
 end
